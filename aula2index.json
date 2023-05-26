@@ -1,0 +1,10 @@
+[{
+  "nome": "Isaac",
+  "idade": 30,
+  "inteligente": true
+},
+{
+  "nome": "alguem",
+  "idade": 54,
+  "inteligente": false
+}]
